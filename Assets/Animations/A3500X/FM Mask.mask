@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FM Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: behind barrel_low
+    m_Weight: 0
+  - m_Path: behind scoop_low
+    m_Weight: 1
+  - m_Path: body cu_low
+    m_Weight: 0
+  - m_Path: bottom thing_low
+    m_Weight: 0
+  - m_Path: bottun 1_low
+    m_Weight: 0
+  - m_Path: bullet2_low
+    m_Weight: 0
+  - m_Path: bullet3_low
+    m_Weight: 0
+  - m_Path: bullet4_low
+    m_Weight: 0
+  - m_Path: bullet5_low
+    m_Weight: 0
+  - m_Path: bullet6_low
+    m_Weight: 0
+  - m_Path: bullet7_low
+    m_Weight: 0
+  - m_Path: bullet8_low
+    m_Weight: 0
+  - m_Path: bullet_low
+    m_Weight: 0
+  - m_Path: coverbullet2_low
+    m_Weight: 0
+  - m_Path: coverbullet3_low
+    m_Weight: 0
+  - m_Path: coverbullet4_low
+    m_Weight: 0
+  - m_Path: coverbullet5_low
+    m_Weight: 0
+  - m_Path: coverbullet6_low
+    m_Weight: 0
+  - m_Path: coverbullet7_low
+    m_Weight: 0
+  - m_Path: coverbullet8_low
+    m_Weight: 0
+  - m_Path: coverbullet_low
+    m_Weight: 0
+  - m_Path: Cube_low
+    m_Weight: 0
+  - m_Path: fcu_low
+    m_Weight: 0
+  - m_Path: frame_low
+    m_Weight: 0
+  - m_Path: front barrel_low
+    m_Weight: 0
+  - m_Path: front scoop_low
+    m_Weight: 1
+  - m_Path: hammer_low
+    m_Weight: 1
+  - m_Path: hand trigger_low
+    m_Weight: 0
+  - m_Path: handofsrew_low
+    m_Weight: 0
+  - m_Path: hh_low
+    m_Weight: 0
+  - m_Path: hurt_low
+    m_Weight: 0
+  - m_Path: led_low
+    m_Weight: 0
+  - m_Path: magazinecover_low
+    m_Weight: 0
+  - m_Path: magzinebody_low
+    m_Weight: 0
+  - m_Path: nail_low
+    m_Weight: 0
+  - m_Path: needle_low
+    m_Weight: 0
+  - m_Path: sandhammer_low
+    m_Weight: 0
+  - m_Path: screw body_low
+    m_Weight: 0
+  - m_Path: screw_low
+    m_Weight: 0
+  - m_Path: slid_low
+    m_Weight: 1
+  - m_Path: trigger_low
+    m_Weight: 1
